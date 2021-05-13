@@ -1,7 +1,7 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c652af73b36de8340250",
-    "url": "/surrender-prayer/css/app.42172bce.css"
+    "revision": "42fba4f3010eb19d7d83",
+    "url": "/surrender-prayer/css/app.5dfbf36d.css"
   },
   {
     "revision": "a5897997d9a2ac668a1b6e80753f7e1d",
@@ -60,12 +60,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/surrender-prayer/img/Jesus.7730a289.png"
   },
   {
-    "revision": "111880f346fb1069eeca28c4c11e7190",
+    "revision": "7dba9a0d09e81d82ba82dad861d8fafd",
     "url": "/surrender-prayer/index.html"
   },
   {
-    "revision": "c652af73b36de8340250",
-    "url": "/surrender-prayer/js/app.495ece23.js"
+    "revision": "42fba4f3010eb19d7d83",
+    "url": "/surrender-prayer/js/app.7c716131.js"
   },
   {
     "revision": "7504c53dce881b14895c",
