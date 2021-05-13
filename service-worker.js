@@ -14,10 +14,10 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.3f9e6f61e24f82a8071e880232ec1771.js"
+  "https://stevenraysimon.github.io/surrender-prayer/precache-manifest.4f10f6828239b20f705727a1e4bc998f.js"
 );
 
-workbox.core.setCacheNameDetails({prefix: "surrender-app-three"});
+workbox.core.setCacheNameDetails({prefix: "surrender-prayer"});
 
 self.addEventListener('message', (event) => {
   if (event.data && event.data.type === 'SKIP_WAITING') {
