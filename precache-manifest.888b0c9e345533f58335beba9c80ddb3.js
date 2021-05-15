@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2c654848ef21d95df9e6",
-    "url": "/surrender-prayer/css/app.71f38192.css"
+    "revision": "7faeba905416224a690e",
+    "url": "/surrender-prayer/css/app.74a22eea.css"
   },
   {
-    "revision": "24a616ce3f61dd206036",
+    "revision": "964cac014324ca992e94",
     "url": "/surrender-prayer/css/chunk-vendors.eb78aeb9.css"
   },
   {
@@ -64,16 +64,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/surrender-prayer/img/Jesus.7730a289.png"
   },
   {
-    "revision": "2e41802225fbfb0bcdee7fb2ed78f8cc",
+    "revision": "2f5831fb87858eda700eeb9556a4b6b7",
+    "url": "/surrender-prayer/img/share.2f5831fb.png"
+  },
+  {
+    "revision": "09119a1846e1b4cfa89164b4f0534759",
     "url": "/surrender-prayer/index.html"
   },
   {
-    "revision": "2c654848ef21d95df9e6",
-    "url": "/surrender-prayer/js/app.c115ba95.js"
+    "revision": "7faeba905416224a690e",
+    "url": "/surrender-prayer/js/app.a8d82051.js"
   },
   {
-    "revision": "24a616ce3f61dd206036",
-    "url": "/surrender-prayer/js/chunk-vendors.7f1558fc.js"
+    "revision": "964cac014324ca992e94",
+    "url": "/surrender-prayer/js/chunk-vendors.ddf73911.js"
   },
   {
     "revision": "eb72cc6c4e9c66647113cf85ef9ea38d",
