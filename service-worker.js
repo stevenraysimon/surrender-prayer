@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/surrender-prayer/precache-manifest.0bed5f50bdc45f77aecf17a95b2ca539.js"
+  "/surrender-prayer/precache-manifest.06c39d53b1454a4320a6ec510bc6d277.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "surrender-prayer"});

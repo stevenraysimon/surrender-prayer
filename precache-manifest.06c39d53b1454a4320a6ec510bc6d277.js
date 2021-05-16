@@ -68,7 +68,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/surrender-prayer/img/share.2f5831fb.png"
   },
   {
-    "revision": "6f25da474692d00449c7d82306ec06f2",
+    "revision": "62a8890436fa947b512fc5ba11de61eb",
     "url": "/surrender-prayer/index.html"
   },
   {
