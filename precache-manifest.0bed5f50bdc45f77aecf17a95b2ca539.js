@@ -68,7 +68,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/surrender-prayer/img/share.2f5831fb.png"
   },
   {
-    "revision": "09119a1846e1b4cfa89164b4f0534759",
+    "revision": "6f25da474692d00449c7d82306ec06f2",
     "url": "/surrender-prayer/index.html"
   },
   {
@@ -150,6 +150,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "9baeec31b3f4efc105d18c69126a15e2",
     "url": "/surrender-prayer/media/surrender8.9baeec31.mp3"
+  },
+  {
+    "revision": "b923e5cbe138c820f778a7cbe77b9c33",
+    "url": "/surrender-prayer/post.jpg"
   },
   {
     "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
